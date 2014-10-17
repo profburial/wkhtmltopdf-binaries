@@ -2,7 +2,7 @@
 
 ** Disclaimer **
 
-This package is HUGE (154.62 MiB). It's probably better grab the individual binaries on a case by case basis. Coming Soon.
+This package is HUGE (154.62 MiB). It's probably better to grab the individual binaries on a case by case basis. Coming Soon.
 
 ## What's included?
 
