@@ -6,4 +6,4 @@ This package is HUGE (154.62 MiB). It's probably better to grab the individual b
 
 ## What's included?
 
-[All the downloads from http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html)
+[All the binaries from http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html)
