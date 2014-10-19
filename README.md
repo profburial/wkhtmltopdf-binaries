@@ -15,7 +15,7 @@
     ```js
     {
         "require": {
-            "profburial/wkhtmltopdf-binaries": "1.0"
+            "profburial/wkhtmltopdf-binaries": "1.1"
         }
     }
     ```
