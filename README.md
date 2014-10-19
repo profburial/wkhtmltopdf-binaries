@@ -23,22 +23,39 @@
 3. All the binaries are symlinked to the following paths:
 
 ```vendor/bin/wkhtmltoimage-amd64-osx```
+
 ```vendor/bin/wkhtmltoimage-amd64-centos6```
+
 ```vendor/bin/wkhtmltoimage-i386-centos6```
+
 ```vendor/bin/wkhtmltoimage-linux-precise-amd64```
+
 ```vendor/bin/wkhtmltoimage-linux-precise-i386```
+
 ```vendor/bin/wkhtmltoimage-linux-trusty-amd64```
+
 ```vendor/bin/wkhtmltoimage-linux-trusty-i386```
+
 ```vendor/bin/wkhtmltoimage-linux-wheezy-amd64```
+
 ```vendor/bin/wkhtmltoimage-linux-wheezy-i386```
+
 ```vendor/bin/wkhtmltopdf-amd64-osx```
+
 ```vendor/bin/wkhtmltopdf-amd64-centos6```
+
 ```vendor/bin/wkhtmltopdf-i386-centos6```
+
 ```vendor/bin/wkhtmltopdf-linux-precise-amd64```
+
 ```vendor/bin/wkhtmltopdf-linux-precise-i386```
+
 ```vendor/bin/wkhtmltopdf-linux-trusty-amd64```
+
 ```vendor/bin/wkhtmltopdf-linux-trusty-i386```
+
 ```vendor/bin/wkhtmltopdf-linux-wheezy-amd64```
+
 ```vendor/bin/wkhtmltopdf-linux-wheezy-i386```
 
 Enjoy the bin files!
