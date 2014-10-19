@@ -11,25 +11,11 @@
         }
     ],
     "minimum-stability": "stable",
-    "bin": [
-        "bin/wkhtmltoimage-amd64-osx",
-        "bin/wkhtmltoimage-amd64-centos6",
-        "bin/wkhtmltoimage-i386-centos6",
-        "bin/wkhtmltoimage-linux-precise-amd64",
-        "bin/wkhtmltoimage-linux-precise-i386",
-        "bin/wkhtmltoimage-linux-trusty-amd64",
-        "bin/wkhtmltoimage-linux-trusty-i386",
-        "bin/wkhtmltoimage-linux-wheezy-amd64",
-        "bin/wkhtmltoimage-linux-wheezy-i386",
-        "bin/wkhtmltopdf-amd64-osx",
-        "bin/wkhtmltopdf-amd64-centos6",
-        "bin/wkhtmltopdf-i386-centos6",
-        "bin/wkhtmltopdf-linux-precise-amd64",
-        "bin/wkhtmltopdf-linux-precise-i386",
-        "bin/wkhtmltopdf-linux-trusty-amd64",
-        "bin/wkhtmltopdf-linux-trusty-i386",
-        "bin/wkhtmltopdf-linux-wheezy-amd64",
-        "bin/wkhtmltopdf-linux-wheezy-i386"
-    ],
-    "require": {}
+    "require": {
+        "profburial/wkhtmltopdf-binaries-osx": "1.0",
+        "profburial/wkhtmltopdf-binaries-centos6": "1.0",
+        "profburial/wkhtmltopdf-binaries-precise": "1.0",
+        "profburial/wkhtmltopdf-binaries-trusty": "1.0",
+        "profburial/wkhtmltopdf-binaries-wheezy": "1.0"
+    }
 }
