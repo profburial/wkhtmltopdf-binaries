@@ -22,75 +22,54 @@
 
 3. All the binaries are symlinked to the following paths:
 
+### OSX
 ```
 vendor/bin/wkhtmltoimage-amd64-osx
-```
 
-```
-vendor/bin/wkhtmltoimage-amd64-centos6
-```
-
-```
-vendor/bin/wkhtmltoimage-i386-centos6
-```
-
-```
-vendor/bin/wkhtmltoimage-linux-precise-amd64
-```
-
-```
-vendor/bin/wkhtmltoimage-linux-precise-i386
-```
-
-```
-vendor/bin/wkhtmltoimage-linux-trusty-amd64
-```
-
-```
-vendor/bin/wkhtmltoimage-linux-trusty-i386
-```
-
-```
-vendor/bin/wkhtmltoimage-linux-wheezy-amd64
-```
-
-```
-vendor/bin/wkhtmltoimage-linux-wheezy-i386
-```
-
-```
 vendor/bin/wkhtmltopdf-amd64-osx
 ```
 
+### Centos 6
 ```
-vendor/bin/wkhtmltopdf-amd64-centos6
-```
+vendor/bin/wkhtmltoimage-amd64-centos6
 
-```
+vendor/bin/wkhtmltoimage-i386-centos6
+
+vendor/bin/wkhtmltopdf-amd64-centos6
+
 vendor/bin/wkhtmltopdf-i386-centos6
 ```
 
+# Ubuntu 12.04 (precise)
 ```
-vendor/bin/wkhtmltopdf-linux-precise-amd64
-```
+vendor/bin/wkhtmltoimage-linux-precise-amd64
 
-```
+vendor/bin/wkhtmltoimage-linux-precise-i386
+
+vendor/bin/wkhtmltopdf-linux-precise-amd64
+
 vendor/bin/wkhtmltopdf-linux-precise-i386
 ```
 
+# Ubuntu 14.04 (trusty)
 ```
-vendor/bin/wkhtmltopdf-linux-trusty-amd64
-```
+vendor/bin/wkhtmltoimage-linux-trusty-amd64
 
-```
+vendor/bin/wkhtmltoimage-linux-trusty-i386
+
+vendor/bin/wkhtmltopdf-linux-trusty-amd64
+
 vendor/bin/wkhtmltopdf-linux-trusty-i386
 ```
 
+# Debian Wheezy
 ```
-vendor/bin/wkhtmltopdf-linux-wheezy-amd64
-```
+vendor/bin/wkhtmltoimage-linux-wheezy-amd64
 
-```
+vendor/bin/wkhtmltoimage-linux-wheezy-i386
+
+vendor/bin/wkhtmltopdf-linux-wheezy-amd64
+
 vendor/bin/wkhtmltopdf-linux-wheezy-i386
 ```
 
