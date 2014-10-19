@@ -40,7 +40,7 @@ vendor/bin/wkhtmltopdf-amd64-centos6
 vendor/bin/wkhtmltopdf-i386-centos6
 ```
 
-# Ubuntu 12.04 (precise)
+### Ubuntu 12.04 (precise)
 ```
 vendor/bin/wkhtmltoimage-linux-precise-amd64
 
@@ -51,7 +51,7 @@ vendor/bin/wkhtmltopdf-linux-precise-amd64
 vendor/bin/wkhtmltopdf-linux-precise-i386
 ```
 
-# Ubuntu 14.04 (trusty)
+### Ubuntu 14.04 (trusty)
 ```
 vendor/bin/wkhtmltoimage-linux-trusty-amd64
 
@@ -62,7 +62,7 @@ vendor/bin/wkhtmltopdf-linux-trusty-amd64
 vendor/bin/wkhtmltopdf-linux-trusty-i386
 ```
 
-# Debian Wheezy
+### Debian Wheezy
 ```
 vendor/bin/wkhtmltoimage-linux-wheezy-amd64
 
