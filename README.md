@@ -15,7 +15,7 @@
     ```js
     {
         "require": {
-            "profburial/wkhtmltopdf-binaries": "1.1"
+            "profburial/wkhtmltopdf-binaries": "0.12.1"
         }
     }
     ```
@@ -84,7 +84,7 @@ This package is HUGE. It's probably better to grab the individual binaries on a 
 ```js
 {
     "require": {
-        "profburial/wkhtmltopdf-binaries-osx": "1.0"
+        "profburial/wkhtmltopdf-binaries-osx": "0.12.1"
     }
 }
 ```
@@ -94,7 +94,7 @@ This package is HUGE. It's probably better to grab the individual binaries on a 
 ```js
 {
     "require": {
-        "profburial/wkhtmltopdf-binaries-centos6": "1.0"
+        "profburial/wkhtmltopdf-binaries-centos6": "0.12.1"
     }
 }
 ```
@@ -104,7 +104,7 @@ This package is HUGE. It's probably better to grab the individual binaries on a 
 ```js
 {
     "require": {
-        "profburial/wkhtmltopdf-binaries-precise": "1.0"
+        "profburial/wkhtmltopdf-binaries-precise": "0.12.1"
     }
 }
 ```
@@ -114,7 +114,7 @@ This package is HUGE. It's probably better to grab the individual binaries on a 
 ```js
 {
     "require": {
-        "profburial/wkhtmltopdf-binaries-trusty": "1.0"
+        "profburial/wkhtmltopdf-binaries-trusty": "0.12.1"
     }
 }
 ```
@@ -124,7 +124,7 @@ This package is HUGE. It's probably better to grab the individual binaries on a 
 ```js
 {
     "require": {
-        "profburial/wkhtmltopdf-binaries-wheezy": "1.0"
+        "profburial/wkhtmltopdf-binaries-wheezy": "0.12.1"
     }
 }
 ```
