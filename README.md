@@ -2,7 +2,17 @@
 
 ** Disclaimer **
 
-This package is HUGE. It's probably better to grab the individual binaries on a case by case basis. Coming Soon.
+This package is HUGE. It's probably better to grab the individual binaries on a case by case basis:
+
+[wkhtmltopdf OSX](https://github.com/profburial/wkhtmltopdf-binaries-osx)
+
+[wkhtmltopdf Cento6](https://github.com/profburial/wkhtmltopdf-binaries-centos6)
+
+[wkhtmltopdf Ubuntu 12.04 (precise)](https://github.com/profburial/wkhtmltopdf-binaries-precise)
+
+[wkhtmltopdf Ubuntu 14.04 (trusty)](https://github.com/profburial/wkhtmltopdf-binaries-trusty)
+
+[wkhtmltopdf Debian Wheezy](https://github.com/profburial/wkhtmltopdf-binaries-wheezy)
 
 ## What's included?
 
